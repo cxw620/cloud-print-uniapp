@@ -1,0 +1,318 @@
+{
+	"pages": [
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/tabbar/index/index",
+			"style": {}
+		}, {
+			"path": "pages/tabbar/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}, {
+			"path": "pages/index/capacity/tabs/tabs",
+			"style": {}
+		}, {
+			"path": "pages/index/photograph/photograph",
+			"style": {}
+		}, {
+			"path": "pages/mine/integral/integral",
+			"style": {
+				"navigationBarTitleText": "我的积分"
+			}
+		}, {
+			"path": "pages/mine/idol/idol",
+			"style": {
+				"navigationBarTitleText": "我的偶像"
+			}
+		}, {
+			"path": "pages/mine/fans/fans",
+			"style": {
+				"navigationBarTitleText": "我的粉丝"
+			}
+		}, {
+			"path": "pages/mine/kimsVolume/kimsVolume",
+			"style": {
+				"navigationBarTitleText": "我的代金卷"
+			}
+		}, {
+			"path": "pages/index/order/list/list",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/index/order/detail/detail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		}, {
+			"path": "pages/index/order/success/success",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		}, {
+			"path": "pages/mine/sharePrivilege/sharePrivilege",
+			"style": {
+				"navigationBarTitleText": "共享特权"
+			}
+		}, {
+			"path": "pages/mine/birthday/birthday",
+			"style": {}
+		}, {
+			"path": "pages/mine/integralConversion/integralConversion",
+			"style": {
+				"navigationBarTitleText": "积分兑换"
+			}
+		}, {
+			"path": "pages/mine/fansInvite/fansInvite",
+			"style": {
+				"navigationBarTitleText": "邀请粉丝"
+			}
+		},
+		{
+			"path": "pages/mine/interval/interval",
+			"style": {
+				"navigationBarTitleText": "接受邀请"
+			}
+		}, {
+			"path": "pages/mine/balance/balance",
+			"style": {
+				"navigationBarTitleText": "余额（元）"
+			}
+		}, {
+			"path": "pages/mine/changePassword/changePassword",
+			"style": {
+				"navigationBarTitleText": "修改支付密码"
+			}
+		},
+
+		{
+			"path": "pages/mine/account/account",
+			"style": {
+				"navigationBarTitleText": "账号管理"
+			}
+		},
+		{
+			"path": "pages/mine/forgetPassword/forgetPassword",
+			"style": {}
+		},
+		{
+			"path": "pages/index/selectOrder/selectOrder",
+			"style": {}
+		},
+		{
+			"path": "pages/index/capacity/certificate/certificate",
+			"style": {
+				"navigationBarTitleText": "智能证件照"
+			}
+		},
+		{
+			"path": "pages/index/shootTemplet/shootTemplet",
+			"style": {}
+		},
+		{
+			"path": "pages/index/capacity/pictureEditor/pictureEditor",
+			"style": {}
+		},
+		{
+			"path": "pages/index/nearDevice/index/index",
+			"style": {
+				"navigationBarTitleText": "附近设备"
+			}
+		},
+		{
+			"path": "pages/index/nearDevice/list/list",
+			"style": {
+				"navigationBarTitleText": "附近设备详情"
+			}
+		},
+		{
+			"path": "pages/index/nearDevice/detail/detail",
+			"style": {}
+		},
+		{
+			"path": "pages/index/copyFile/copyFile",
+			"style": {}
+		},
+		{
+			"path": "pages/index/reductionMakeup/preview/preview",
+			"style": {}
+		},
+		{
+			"path": "pages/mine/login/login",
+			"style": {
+				"navigationBarTitleText": "登陆"
+			}
+		},
+		{
+			"path": "pages/mine/message/message",
+			"style": {
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": "消息"
+			}
+		},
+		{
+			"path": "pages/mine/messageDetails/messageDetails",
+			"style": {
+				"navigationBarTitleText": "消息详情"
+			}
+		},
+		{
+			"path": "pages/index/elsedocument/elsedocument",
+			"style": {}
+		},
+		{
+			"path": "pages/mine/memberShip/memberShip",
+			"style": {}
+		},
+		{
+			"path": "pages/index/baiduAuthorization/baiduAuthorization",
+			"style": {}
+		},
+		{
+			"path": "pages/index/selectFile/selectFile",
+			"style": {}
+		},
+		{
+			"path": "pages/index/filePrint/tabs/tabs",
+			"style": {
+				"navigationBarTitleText": "文档打印"
+			}
+		},
+		{
+			"path": "pages/index/filePrint/order/order",
+			"style": {
+				"navigationBarTitleText": "打印选项"
+			}
+		},
+		{
+			"path": "pages/index/reductionMakeup/tabs/tabs",
+			"style": {
+				"navigationBarTitleText": "缩印"
+			}
+		},
+		{
+			"path": "pages/index/invoice/tabs/tabs",
+			"style": {
+				"navigationBarTitleText": "电子发票打印"
+			}
+		}, {
+			"path": "pages/index/reductionMakeup/reduction/index/index",
+			"style": {
+				"navigationBarTitleText": "缩印"
+			}
+		}, {
+			"path": "pages/index/reductionMakeup/reduction/order/order",
+			"style": {
+				"navigationBarTitleText": "缩印选项"
+			}
+		}, {
+			"path": "pages/index/reductionMakeup/baidu/baidu",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/index/papersCopy/tabs/tabs",
+			"style": {
+				"navigationBarTitleText": "智能证件照"
+			}
+		},
+		{
+			"path": "pages/index/papersCopy/idCard/idCard",
+			"style": {
+				"navigationBarTitleText": "身份证复印"
+			}
+		},
+		{
+			"path": "pages/index/help/help",
+			"style": {}
+		},
+		{
+			"path": "pages/index/photoPrint/index/index",
+			"style": {
+				"navigationBarTitleText": "照片打印"
+			}
+		},
+		{
+			"path": "pages/index/filePrint/baidu/baidu",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/index/photoPrint/order/order",
+			"style": {
+				"navigationBarTitleText": "照片打印选项"
+			}
+		},
+		{
+			"path": "pages/index/photoPrint/preview/preview",
+			"style": {
+				"navigationBarTitleText": "预览"
+			}
+		},
+		{
+			"path": "pages/index/copy/order/order",
+			"style": {
+				"navigationBarTitleText": "文件复印"
+			}
+		},
+		{
+			"path": "pages/index/copy/index/index",
+			"style": {
+				"navigationBarTitleText": "文件复印"
+			}
+		}, {
+			"path": "pages/index/papersCopy/order/order",
+			"style": {}
+		},
+		{
+			"path": "pages/index/papersCopy/driving/driving",
+			"style": {}
+		},
+		{
+			"path": "pages/index/papersCopy/bankCard/bankCard",
+			"style": {}
+		},
+		{
+			"path": "pages/index/papersCopy/elseCopy/elseCopy",
+			"style": {}
+		},
+		{
+			"path": "pages/index/reductionMakeup/makeup/index/index",
+			"style": {}
+		},
+		{
+			"path": "pages/index/reductionMakeup/makeup/order/order",
+			"style": {}
+		}, {
+			"path": "pages/index/capacity/order/order",
+			"style": {}
+		}, {
+			"path": "pages/index/order/scanCode/scanCode",
+			"style": {}
+		}, {
+			"path": "pages/mine/harvest/harvest",
+			"style": {}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "微印云打印",
+		"navigationBarBackgroundColor": "#FD2316",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#C1C0C9",
+		"selectedColor": "#FE8B1E",
+		"list": [{
+				"pagePath": "pages/tabbar/index/index"
+			},
+			{
+				"pagePath": "pages/tabbar/mine/mine"
+			}
+		]
+	}
+}
